@@ -1,1 +1,1 @@
-# B-TER
+# B-TER.json
